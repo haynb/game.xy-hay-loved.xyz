@@ -1,6 +1,6 @@
 # 游戏资源分享网站
 
-#### game.xy-hay-loved.xxy
+#### game.xy-hay-loved.xyz
 
 由于服务器到期,网站暂已关闭。
 
