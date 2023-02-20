@@ -10,7 +10,7 @@
 
 
 
-后端与接口部分在***/games***文件夹下。使用<u>chromedriver</u>驱动爬虫。爬取代码为：***auto_game.py***
+后端与接口部分在***games***文件夹下。使用<u>chromedriver</u>驱动爬虫。爬取代码为：***auto_game.py***
 
 所使用的python环境在***environment.yml***中。可以只用conda命令一键克隆
 
